@@ -1,218 +1,173 @@
+---
+
+## English / Inglés
 
-קוד פרס ב-Realm: cdogio:wAFiguWpgb9xYQEnglish / Inglés
+**Version:** 1.0  
+**Platforms:** Windows & Linux  
 
-Version: 1.0
-Platform: Windows
+MineJavrock converts **Minecraft Java Edition texture packs (.zip)** into **.mcpack format** for Minecraft Bedrock Edition.  
 
-MineJavrock converts Minecraft Java Edition texture packs (.zip) into .mcpack format for Minecraft Bedrock Edition. Available as a Windows .exe installer.
+**Features**  
+- Converts .zip Java packs to .mcpack.  
+- Auto-normalizes file names for compatibility.  
+- Optionally includes miscellaneous folders (misc).  
+- User-friendly GUI using Kivy.  
+- Logs warnings and errors during conversion.  
 
-Features
+**Requirements**  
+- Windows 10 or higher OR Linux (x64).  
+- Pillow included for converting images to PNG if needed.  
 
-Converts .zip Java packs to .mcpack.
+**Installation**  
+- [⬇️ Download for Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Download for Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Auto-normalizes file names for compatibility.
+**Usage**  
+1. Open MineJavrock.  
+2. Select a Java Pack .zip file.  
+3. Choose the output folder.  
+4. Configure pack details (name, description, version, options).  
+5. Click **"Convert to .mcpack"**.  
+6. Wait until conversion finishes; logs appear in the app.  
 
-Optionally includes miscellaneous folders (misc).
+**Realm Reward**  
+🌐 The Realm **has expired**.  
+Previous code: `cdogio:wAFiguWpgb9xYQY`  
 
-User-friendly GUI using Kivy.
+**Limitations**  
+- Only available for Windows and Linux.  
+- Ignores folders like mcpatcher, optifine, models.  
+- Non-PNG formats require Pillow (already included).  
 
-Logs warnings and errors during conversion.
+---
 
-Requirements
+## Español / Spanish
 
-Windows 10 or higher.
+**Versión:** 1.0  
+**Plataformas:** Windows y Linux  
 
-Standalone .exe, no Python needed.
+MineJavrock convierte **packs de texturas de Minecraft Java Edition (.zip)** a **formato .mcpack** para Minecraft Bedrock Edition.  
 
-Pillow included for converting images to PNG if needed.
+**Características**  
+- Convierte packs .zip de Java a .mcpack.  
+- Normaliza automáticamente los nombres de archivos.  
+- Permite incluir carpetas misceláneas (misc).  
+- Interfaz gráfica amigable con Kivy.  
+- Registro de advertencias y errores.  
 
-Usage
+**Requisitos**  
+- Windows 10 o superior O Linux (x64).  
+- Pillow incluido para convertir imágenes a PNG si es necesario.  
 
-Open MineJavrock.
+**Instalación**  
+- [⬇️ Descargar para Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Descargar para Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Select a Java Pack .zip file.
+**Uso**  
+1. Abre MineJavrock.  
+2. Selecciona un archivo .zip de Java Pack.  
+3. Elige la carpeta de salida.  
+4. Configura los detalles del pack.  
+5. Haz clic en **"Convertir a .mcpack"**.  
+6. Espera a que termine; el registro aparecerá en la app.  
 
-Choose the output folder.
+**Recompensa en el Realm**  
+🌐 El Realm **ha caducado**.  
+Código anterior: `cdogio:wAFiguWpgb9xYQY`  
 
-Configure pack details (name, description, version, options).
+**Limitaciones**  
+- Solo disponible en Windows y Linux.  
+- Ignora carpetas como mcpatcher, optifine, models.  
+- Formatos no PNG requieren Pillow (incluido).  
 
-Click "Convert to .mcpack".
+---
 
-Wait until conversion finishes; logs appear in the app.
+## Français / French
 
-Realm Reward
-🌐 The Realm has expired.
-Previous code: cdogio:wAFiguWpgb9xYQY
+**Version :** 1.0  
+**Plateformes :** Windows et Linux  
 
-Limitations
+MineJavrock convertit les **packs de textures Minecraft Java Edition (.zip)** en **format .mcpack** pour Minecraft Bedrock Edition.  
 
-Only available for Windows.
+**Fonctionnalités**  
+- Conversion de .zip Java packs en .mcpack.  
+- Normalisation automatique des noms.  
+- Inclusion optionnelle des dossiers divers (misc).  
+- Interface graphique conviviale avec Kivy.  
+- Journalisation des avertissements et erreurs.  
 
-Ignores folders like mcpatcher, optifine, models.
+**Installation**  
+- [⬇️ Télécharger pour Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Télécharger pour Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Non-PNG formats require Pillow (already included).
+---
 
-Español / Spanish / Español
+## Deutsch / German
 
-Versión: 1.0
-Plataforma: Windows
+**Version:** 1.0  
+**Plattformen:** Windows & Linux  
 
-MineJavrock convierte packs de texturas de Minecraft Java Edition (.zip) a formato .mcpack para Minecraft Bedrock Edition. Ahora disponible como instalador .exe para Windows.
+MineJavrock konvertiert **Minecraft Java Edition Texture Packs (.zip)** in **.mcpack** für Minecraft Bedrock Edition.  
 
-Características
+**Funktionen**  
+- Konvertiert .zip Java Packs zu .mcpack.  
+- Normalisiert Dateinamen automatisch.  
+- Optionale Einbeziehung von Misc-Ordnern.  
+- Benutzerfreundliche GUI mit Kivy.  
+- Protokolliert Warnungen und Fehler.  
 
-Convierte packs .zip de Java a .mcpack.
+**Installation**  
+- [⬇️ Download für Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Download für Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Normaliza automáticamente los nombres de archivos.
+---
 
-Permite incluir carpetas misceláneas (misc).
+## Português / Portuguese
 
-Interfaz gráfica amigable con Kivy.
+**Versão:** 1.0  
+**Plataformas:** Windows & Linux  
 
-Registro de advertencias y errores durante la conversión.
+MineJavrock converte **packs de texturas Minecraft Java Edition (.zip)** em **formato .mcpack** para Minecraft Bedrock Edition.  
 
-Requisitos
+**Instalação**  
+- [⬇️ Baixar para Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Baixar para Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Windows 10 o superior.
+---
 
-Programa independiente, no requiere Python.
+## Русский / Russian
 
-Pillow incluido para convertir imágenes a PNG si es necesario.
+**Версия:** 1.0  
+**Платформы:** Windows и Linux  
 
-Cómo usar
+MineJavrock конвертирует **текстурные пакеты Minecraft Java Edition (.zip)** в **.mcpack** для Minecraft Bedrock Edition.  
 
-Abre MineJavrock.
+**Скачивание**  
+- [⬇️ Скачать для Windows](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Скачать для Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Selecciona un archivo .zip de Java Pack.
+---
 
-Elige la carpeta de salida para el .mcpack.
+## 中文 / Chinese Simplified
 
-Configura los detalles del pack (nombre, descripción, versión, opciones).
+**版本:** 1.0  
+**平台:** Windows 和 Linux  
 
-Haz clic en "Convert to .mcpack".
+MineJavrock 将 **Minecraft Java Edition 纹理包 (.zip)** 转换为 **.mcpack**。  
 
-Espera a que termine la conversión; el registro aparecerá en la aplicación.
+**下载**  
+- [⬇️ Windows 下载](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Linux 下载](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)  
 
-Recompensa en el Realm
-🌐 El Realm ha caducado.
-Código anterior: cdogio:wAFiguWpgb9xYQY
+---
 
-Limitaciones
+## 日本語 / Japanese
 
-Solo disponible para Windows.
+**バージョン:** 1.0  
+**プラットフォーム:** Windows & Linux  
 
-Ignora carpetas como mcpatcher, optifine, models.
+MineJavrock は **Java版 Minecraft テクスチャパック (.zip)** を **.mcpack** に変換します。  
 
-Formatos no PNG requieren Pillow (ya incluido).
-
-Français / French / Français
-
-Version : 1.0
-Plateforme : Windows
-
-MineJavrock convertit les packs de textures Minecraft Java Edition (.zip) en format .mcpack pour Minecraft Bedrock Edition. Disponible comme installateur Windows .exe.
-
-Fonctionnalités
-
-Conversion de .zip Java packs en .mcpack.
-
-Normalisation automatique des noms de fichiers.
-
-Inclusion optionnelle des dossiers divers (misc).
-
-Interface graphique conviviale avec Kivy.
-
-Journalisation des avertissements et erreurs.
-
-Récompense Realm
-🌐 Le Realm a expiré.
-Ancien code : cdogio:wAFiguWpgb9xYQY
-
-Deutsch / German / Deutsch
-
-Version: 1.0
-Plattform: Windows
-
-MineJavrock konvertiert Minecraft Java Edition Texture Packs (.zip) in .mcpack für Bedrock Edition. Jetzt als Windows-Installer .exe verfügbar.
-
-Funktionen
-
-Konvertiert .zip Java Packs zu .mcpack.
-
-Normalisiert Dateinamen automatisch.
-
-Optionale Einbeziehung von Misc-Ordnern.
-
-Benutzerfreundliche GUI mit Kivy.
-
-Protokolliert Warnungen und Fehler.
-
-Realm-Belohnung
-🌐 Der Realm ist abgelaufen.
-Vorheriger Code: cdogio:wAFiguWpgb9xYQY
-
-Português / Portuguese / Português
-
-Versão: 1.0
-Plataforma: Windows
-
-MineJavrock converte packs de texturas Java Minecraft (.zip) para .mcpack. Disponível como instalador .exe.
-
-Recompensa Realm
-🌐 O Realm expirou.
-Código anterior: cdogio:wAFiguWpgb9xYQY
-
-Русский / Russian / Русский
-
-Версия: 1.0
-Платформа: Windows
-
-MineJavrock конвертирует текстурные пакеты Minecraft Java Edition (.zip) в .mcpack для Bedrock Edition.
-
-Realm код
-🌐 Realm истёк.
-Предыдущий код: cdogio:wAFiguWpgb9xYQY
-
-中文 (简体) / Chinese Simplified / 中文
-
-版本: 1.0
-平台: Windows
-
-MineJavrock 将 Java 版 Minecraft 纹理包 (.zip) 转换为 .mcpack。
-
-Realm 奖励代码
-🌐 Realm 已过期。
-以前的代码: cdogio:wAFiguWpgb9xYQY
-
-日本語 / Japanese / 日本語
-
-バージョン: 1.0
-プラットフォーム: Windows
-
-MineJavrock は Java版 Minecraft テクスチャパック (.zip) を .mcpack に変換します。
-
-Realm 報酬コード
-🌐 Realm は期限切れです。
-以前のコード: cdogio:wAFiguWpgb9xYQY
-
-العربية / Arabic / العربية
-
-الإصدار: 1.0
-المنصة: Windows
-
-MineJavrock يقوم بتحويل حزم نسيج Minecraft Java (.zip) إلى .mcpack.
-
-كود المكافأة في Realm
-🌐 Realm منتهٍ.
-الكود السابق: cdogio:wAFiguWpgb9xYQY
-
-עברית / Hebrew / עברית
-
-גרסה: 1.0
-פלטפורמה: Windows
-
-MineJavrock ממיר חבילות טקסטורות של Minecraft Java Edition (.zip) ל-.mcpack עבור Minecraft Bedrock Edition.
-
-קוד פרס ב-Realm
-🌐 ה-Realm פג תוקפו.
-הקוד הקודם: cdogio:wAFiguWpgb9xYQY
+**ダウンロード**  
+- [⬇️ Windows 用ダウンロード](https://www.dropbox.com/scl/fi/mvcuomk7235tztqok0yog/MineJavrock-Installer.exe?rlkey=36zimsfpi3divcpmyk5w850ly&st=fqbgf9js&dl=1)  
+- [🐧 Linux 用ダウンロード](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=1)
