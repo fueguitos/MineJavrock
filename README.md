@@ -17,8 +17,8 @@ MineJavrock converts **Minecraft Java Edition texture packs (.zip)** into **.mcp
 - Pillow included for converting images to PNG if needed.  
 
 **Installation**  
-- [⬇️ Download for Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Download for Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Download for Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 Download for Linux](https://tinyurl.com/2fyzdcpe)  
 
 **Realm Reward**  
 🌐 The Realm **has expired**.  
@@ -40,13 +40,9 @@ MineJavrock convierte packs de texturas de Minecraft Java Edition (.zip) a forma
 - Interfaz gráfica amigable con Kivy.  
 - Registro de advertencias y errores durante la conversión.  
 
-**Requisitos**  
-- Windows 10 o superior O Linux (x64).  
-- Pillow incluido para convertir imágenes a PNG si es necesario.  
-
 **Instalación**  
-- [⬇️ Descargar para Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Descargar para Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Descargar para Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 Descargar para Linux](https://tinyurl.com/2fyzdcpe)  
 
 **Recompensa en el Realm**  
 🌐 El Realm **ha caducado**.  
@@ -62,8 +58,8 @@ Código anterior: `cdogio:wAFiguWpgb9xYQY`
 MineJavrock convertit les packs de textures Minecraft Java Edition (.zip) en **.mcpack** pour Minecraft Bedrock Edition.  
 
 **Installation**  
-- [⬇️ Télécharger pour Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Télécharger pour Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Télécharger pour Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 Télécharger pour Linux](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Le Realm **a expiré**.  
 
@@ -77,8 +73,8 @@ MineJavrock convertit les packs de textures Minecraft Java Edition (.zip) en **.
 MineJavrock konvertiert Minecraft Java Edition Texture Packs (.zip) in **.mcpack** für Bedrock Edition.  
 
 **Installation**  
-- [⬇️ Für Windows herunterladen](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Für Linux herunterladen](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Für Windows herunterladen](https://tinyurl.com/4z5me55b)  
+- [🐧 Für Linux herunterladen](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Der Realm **ist abgelaufen**.  
 
@@ -92,8 +88,8 @@ MineJavrock konvertiert Minecraft Java Edition Texture Packs (.zip) in **.mcpack
 MineJavrock converte pacotes de texturas do Minecraft Java (.zip) em **.mcpack** para Minecraft Bedrock Edition.  
 
 **Instalação**  
-- [⬇️ Baixar para Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Baixar para Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Baixar para Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 Baixar para Linux](https://tinyurl.com/2fyzdcpe)  
 
 🌐 O Realm **expirou**.  
 
@@ -107,8 +103,8 @@ MineJavrock converte pacotes de texturas do Minecraft Java (.zip) em **.mcpack**
 MineJavrock конвертирует текстурные пакеты Minecraft Java Edition (.zip) в **.mcpack** для Bedrock Edition.  
 
 **Установка**  
-- [⬇️ Скачать для Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Скачать для Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Скачать для Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 Скачать для Linux](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Realm **истёк**.  
 
@@ -122,8 +118,8 @@ MineJavrock конвертирует текстурные пакеты Minecraft
 MineJavrock 将 Java 版 Minecraft 纹理包 (.zip) 转换为 **.mcpack**，适用于基岩版。  
 
 **安装**  
-- [⬇️ Windows 下载](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Linux 下载](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Windows 下载](https://tinyurl.com/4z5me55b)  
+- [🐧 Linux 下载](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Realm **已过期**。  
 
@@ -137,8 +133,8 @@ MineJavrock 将 Java 版 Minecraft 纹理包 (.zip) 转换为 **.mcpack**，适�
 MineJavrock は Minecraft Java Edition のテクスチャパック (.zip) を **.mcpack** に変換します。  
 
 **インストール**  
-- [⬇️ Windows 用ダウンロード](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 Linux 用ダウンロード](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ Windows 用ダウンロード](https://tinyurl.com/4z5me55b)  
+- [🐧 Linux 用ダウンロード](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Realm **の有効期限が切れました**。  
 
@@ -152,8 +148,8 @@ MineJavrock は Minecraft Java Edition のテクスチャパック (.zip) を **
 MineJavrock يحول حزم نسيج Minecraft Java (.zip) إلى **.mcpack** لـ Minecraft Bedrock Edition.  
 
 **التثبيت**  
-- [⬇️ تحميل لـ Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 تحميل لـ Linux](https://www.dropbox.com/scl/fi/baotwsn3ek2rc1maj2cj3/MineJavrock-LINUX?rlkey=mz7dgl9jwvm7stwswjqec59q5&st=7jf0r13w&dl=0)  
+- [⬇️ تحميل لـ Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 تحميل لـ Linux](https://tinyurl.com/2fyzdcpe)  
 
 🌐 Realm **منتهي الصلاحية**.  
 
@@ -167,6 +163,8 @@ MineJavrock يحول حزم نسيج Minecraft Java (.zip) إلى **.mcpack** ل
 MineJavrock ממיר חבילות טקסטורות של Minecraft Java Edition (.zip) ל-**.mcpack** עבור Minecraft Bedrock Edition.  
 
 **התקנה**  
-- [⬇️ הורדה ל-Windows](https://www.dropbox.com/scl/fi/j9rafqhwkqehkx50t0mra/MineJavrock-Installer.exe?rlkey=lk9cogu93puic7hwpo80l9tg6&st=u95ijvji&dl=1)  
-- [🐧 הורדה ל-L
+- [⬇️ הורדה ל-Windows](https://tinyurl.com/4z5me55b)  
+- [🐧 הורדה ל-Linux](https://tinyurl.com/2fyzdcpe)  
+
+🌐 Realm **פג תוקפו**.  
 
