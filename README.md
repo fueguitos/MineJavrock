@@ -1,3 +1,5 @@
+# MineJavrock
+
 ## English / Inglés
 
 **Version:** 1.0  
@@ -17,7 +19,7 @@ MineJavrock converts **Minecraft Java Edition texture packs (.zip)** into **.mcp
 - Pillow included for converting images to PNG if needed.  
 
 **Installation**  
-- [⬇️ Download for Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ Download for Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 Download for Linux](https://tinyurl.com/ydu88c6x)  
 
 **Realm Reward**  
@@ -41,7 +43,7 @@ MineJavrock convierte packs de texturas de Minecraft Java Edition (.zip) a forma
 - Registro de advertencias y errores durante la conversión.  
 
 **Instalación**  
-- [⬇️ Descargar para Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ Descargar para Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 Descargar para Linux](https://tinyurl.com/ydu88c6x)  
 
 **Recompensa en el Realm**  
@@ -58,7 +60,7 @@ Código anterior: `cdogio:wAFiguWpgb9xYQY`
 MineJavrock convertit les packs de textures Minecraft Java Edition (.zip) en **.mcpack** pour Minecraft Bedrock Edition.  
 
 **Installation**  
-- [⬇️ Télécharger pour Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ Télécharger pour Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 Télécharger pour Linux](https://tinyurl.com/ydu88c6x)  
 
 🌐 Le Realm **a expiré**.  
@@ -73,7 +75,7 @@ MineJavrock convertit les packs de textures Minecraft Java Edition (.zip) en **.
 MineJavrock konvertiert Minecraft Java Edition Texture Packs (.zip) in **.mcpack** für Bedrock Edition.  
 
 **Installation**  
-- [⬇️ Für Windows herunterladen](https://tinyurl.com/42kjsett)  
+- [⬇️ Für Windows herunterladen](https://tinyurl.com/bdf7zer6)  
 - [🐧 Für Linux herunterladen](https://tinyurl.com/ydu88c6x)  
 
 🌐 Der Realm **ist abgelaufen**.  
@@ -88,7 +90,7 @@ MineJavrock konvertiert Minecraft Java Edition Texture Packs (.zip) in **.mcpack
 MineJavrock converte pacotes de texturas do Minecraft Java (.zip) em **.mcpack** para Minecraft Bedrock Edition.  
 
 **Instalação**  
-- [⬇️ Baixar para Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ Baixar para Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 Baixar para Linux](https://tinyurl.com/ydu88c6x)  
 
 🌐 O Realm **expirou**.  
@@ -103,7 +105,7 @@ MineJavrock converte pacotes de texturas do Minecraft Java (.zip) em **.mcpack**
 MineJavrock конвертирует текстурные пакеты Minecraft Java Edition (.zip) в **.mcpack** для Bedrock Edition.  
 
 **Установка**  
-- [⬇️ Скачать для Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ Скачать для Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 Скачать для Linux](https://tinyurl.com/ydu88c6x)  
 
 🌐 Realm **истёк**.  
@@ -118,7 +120,7 @@ MineJavrock конвертирует текстурные пакеты Minecraft
 MineJavrock 将 Java 版 Minecraft 纹理包 (.zip) 转换为 **.mcpack**，适用于基岩版。  
 
 **安装**  
-- [⬇️ Windows 下载](https://tinyurl.com/42kjsett)  
+- [⬇️ Windows 下载](https://tinyurl.com/bdf7zer6)  
 - [🐧 Linux 下载](https://tinyurl.com/ydu88c6x)  
 
 🌐 Realm **已过期**。  
@@ -133,7 +135,7 @@ MineJavrock 将 Java 版 Minecraft 纹理包 (.zip) 转换为 **.mcpack**，适�
 MineJavrock は Minecraft Java Edition のテクスチャパック (.zip) を **.mcpack** に変換します。  
 
 **インストール**  
-- [⬇️ Windows 用ダウンロード](https://tinyurl.com/42kjsett)  
+- [⬇️ Windows 用ダウンロード](https://tinyurl.com/bdf7zer6)  
 - [🐧 Linux 用ダウンロード](https://tinyurl.com/ydu88c6x)  
 
 🌐 Realm **の有効期限が切れました**。  
@@ -148,7 +150,7 @@ MineJavrock は Minecraft Java Edition のテクスチャパック (.zip) を **
 MineJavrock يحول حزم نسيج Minecraft Java (.zip) إلى **.mcpack** لـ Minecraft Bedrock Edition.  
 
 **التثبيت**  
-- [⬇️ تحميل لـ Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ تحميل لـ Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 تحميل لـ Linux](https://tinyurl.com/ydu88c6x)  
 
 🌐 Realm **منتهي الصلاحية**.  
@@ -163,7 +165,7 @@ MineJavrock يحول حزم نسيج Minecraft Java (.zip) إلى **.mcpack** ل
 MineJavrock ממיר חבילות טקסטורות של Minecraft Java Edition (.zip) ל-**.mcpack** עבור Minecraft Bedrock Edition.  
 
 **התקנה**  
-- [⬇️ הורדה ל-Windows](https://tinyurl.com/42kjsett)  
+- [⬇️ הורדה ל-Windows](https://tinyurl.com/bdf7zer6)  
 - [🐧 הורדה ל-Linux](https://tinyurl.com/ydu88c6x)  
 
-🌐 Realm **פג תוקפו**.  
+🌐 Realm **פג תוקף**.
