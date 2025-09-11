@@ -11,7 +11,7 @@ MineJavrock converts **Minecraft Java Edition texture packs (.zip)** into **.mcp
 - Converts .zip Java packs to .mcpack.  
 - Auto-normalizes file names for compatibility.  
 - Optionally includes miscellaneous folders (misc).  
-- User-friendly GUI using Kivy.  
+- User-friendly GUI using **Tkinter (Windows)** and **Kivy (Linux)**.  
 - Logs warnings and errors during conversion.  
 
 **Requirements**  
@@ -38,7 +38,7 @@ MineJavrock convierte packs de texturas de Minecraft Java Edition (.zip) a forma
 - Convierte packs .zip de Java a .mcpack.  
 - Normaliza automáticamente los nombres de archivos.  
 - Permite incluir carpetas misceláneas (misc).  
-- Interfaz gráfica amigable con Kivy.  
+- Interfaz gráfica amigable con **Tkinter (Windows)** y **Kivy (Linux)**.  
 - Registro de advertencias y errores durante la conversión.  
 
 **Instalación**  
